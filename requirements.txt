@@ -1,0 +1,12 @@
+BeautifulSoup==3.2.1
+-e git://github.com/django/django.git@0eeae15056edf07f786d3be5b47c14ab62eacd31#egg=Django-dev
+South==0.7.6
+distribute==0.6.28
+-e git://github.com/Fantomas42/django-blog-zinnia.git@096cd9cc8317324fd947e4fa9f35e0f40e4ff306#egg=django_blog_zinnia-dev
+django-mptt==0.5.4
+django-tagging==0.3.1
+django-xmlrpc==0.1.4
+psycopg2==2.4.5
+pyparsing==1.5.6
+pytz==2012h
+wsgiref==0.1.2
